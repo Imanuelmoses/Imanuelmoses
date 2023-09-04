@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Imanuelmoses
-- 👀 I’m interested in software engenering and online academic writing
-- 🌱 I’m currently learning software engeneering
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I'm @Imanuelmoses
+- 👀 I'm interested in software engineering and online academic writing
+- 🌱 I'm currently learning software engineering
 - 📫 How to reach me (kiuimanuel@gmail.com)
 
 <!---
